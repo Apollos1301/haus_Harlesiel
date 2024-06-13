@@ -7,7 +7,7 @@ function PreisSegmentMobile() {
     <div className="w-full grid justify-items-center items-center mt-[5rem]">
       <div className="w-10/12 p-5 drop-shadow-2xl shadow-2xl border-4 transition hover:scale-105 cursor-pointer bg-white flex flex-row gap-5 font-athiti justify-items-center items-start lg:items-center">
         <div className="text-center pt-5">
-          <span className="text-xl lg:text-6xl">85 €</span>
+          <span className="text-xl lg:text-6xl">90 €</span>
           <span className="text-sm lg:text-2xl">/ Nacht</span>
           <br />
           <span className=" text-sm lg:text-lg">

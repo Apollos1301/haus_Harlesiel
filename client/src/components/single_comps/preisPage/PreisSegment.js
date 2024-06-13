@@ -7,7 +7,7 @@ function PreisSegment() {
     <div className="w-1/3 grid justify-items-end items-center">
       <div className="ml-4 lg:ml-0 lg:w-10/12 h-3/6 lg:h-5/6 drop-shadow-2xl shadow-2xl border-4 transition hover:scale-105 cursor-pointer bg-white flex flex-col gap-5 font-athiti justify-items-center items-start lg:items-center">
         <div className="text-center pt-5">
-          <span className="text-xl lg:text-6xl">85 €</span>
+          <span className="text-xl lg:text-6xl">90 €</span>
           <span className="text-sm lg:text-2xl">/ Nacht</span>
           <br />
           <span className=" text-sm lg:text-lg">
