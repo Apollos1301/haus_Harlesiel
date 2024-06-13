@@ -9,7 +9,7 @@ function TextMobile() {
       <div className="w-10/12 mt-5 relative top-0 left-0">
         <div className="w-full absolute top-0 left-0 flex justify-items-center items-center font-athiti text-sm text-center">
           <div>
-            Für Deinen Aufenthalt zahlst Du pauschal 85 Euro pro Nacht. Kein
+            Für Deinen Aufenthalt zahlst Du pauschal 90 Euro pro Nacht. Kein
             Saison-Schnickschnack, ein Preis für das ganze Jahr! Heizung,
             Wasser, Strom, WLAN und auch die Endreinigung sind hier schon mit
             dabei, Handtücher und Bettwäsche musst Du Dir allerdings selber

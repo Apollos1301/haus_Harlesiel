@@ -15,7 +15,7 @@ function Text() {
 
         <div className="pl-5 pr-5 w-full h-full absolute top-0 left-0 flex justify-items-center items-center font-athiti text-[1.5rem] text-center">
           <div>
-            Für Deinen Aufenthalt zahlst Du pauschal 85 Euro pro Nacht.
+            Für Deinen Aufenthalt zahlst Du pauschal 90 Euro pro Nacht.
             <br />
             Kein Saison-Schnickschnack, ein Preis für das ganze Jahr!
             <br />
